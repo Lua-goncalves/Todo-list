@@ -44,4 +44,4 @@ Um aplicativo simples e moderno de lista de tarefas desenvolvido com React + Typ
 
 5- Abra no navegador:
 
-  http://localhost:5173 (ou porta que aparecer no terminal)
+  http://localhost:5174 (ou porta que aparecer no terminal)
