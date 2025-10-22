@@ -28,7 +28,7 @@ Um aplicativo simples e moderno de lista de tarefas desenvolvido com React + Typ
 
 1- Clone o repositório:
 
- git clone https://github.com/seu-usuario/todo-list-app.git
+ git clone https://github.com/Lua-goncalves/Todo-list.git
 
 2- Acesse a pasta do projeto:
 
